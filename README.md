@@ -1,7 +1,7 @@
 
 
 <div style="display:flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlaviXG&show_icons=true&count_private=true&include_all_commits=true" alt="SlaviXG" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlaviXG&layout=compact&langs_count=8" alt="https://github.com/SlaviXG/github-readme-stats" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SlaviXG&show_icons=true&count_private=true&include_all_commits=true" alt="SlaviXG" width="58%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlaviXG&layout=compact&langs_count=8" alt="https://github.com/SlaviXG/github-readme-stats" width="38%"/>
 </div>
 
