@@ -50,3 +50,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="45" height="45"/>
         
 </p>
+
+<h2>Contacts</h2>
+<p align="center">
+  <a href="mailto:contact.slavix@gmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
+</p>
