@@ -51,7 +51,7 @@
         
 </p>
 
-<h2>Contacts</h2>
+<h2>Contact</h2>
 <p align="center">
   <a href="mailto:contact.slavix@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
