@@ -1,6 +1,6 @@
 <h1> Hi and Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-<p> I'm Viacheslav Horbanov, an IT specialist with a fervor for the startup ecosystem. My journey in the tech sphere is fueled by a relentless quest for innovation and the application of new technologies that enhance our modern world. </p>
+<p> I'm Slava Horbanov, an IT specialist with a fervor for the startup ecosystem. My journey in the tech sphere is fueled by a relentless quest for innovation and the application of new technologies that enhance our modern world. </p>
 
 <img src="https://github.com/SlaviXG/SlaviXG/assets/78792148/1b0b922f-777b-4b8a-8b2f-2552f3316a5d" alt="My Banner">
 
